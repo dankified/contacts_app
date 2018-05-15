@@ -1,5 +1,7 @@
-require "sinatra"
-require "humanity"
+require 'rubygems'
+require 'bundler'
+
+Bundler.require
 
 get '/contacts' do
   content_type :json
