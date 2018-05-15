@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'pg'
-require 'humanity'
 
 conn = PG::Connection.open(dbname: 'contacts')
 
