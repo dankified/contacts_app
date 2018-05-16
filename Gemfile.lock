@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/andyweiss1982/humanity.git
-  revision: 41feecc0b918217a020591d1099c485bfb8de18c
+  remote: https://github.com/wyncode/humanity_gem.git
+  revision: e71a2f4112a1b67bb5522ae0e373c6c267cfeae9
   branch: basic_orm
   specs:
     humanity (0.2.0)
