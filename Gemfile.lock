@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/andyweiss1982/humanity.git
-  revision: 05e58aec1db13dc149f90115a839b8c05a29a0b8
+  remote: https://github.com/wyncode/humanity_gem.git
+  revision: 3e279a3c3cc75e011d568f85add803a62169b03a
   branch: activerecord
   specs:
     humanity (0.3.0)
