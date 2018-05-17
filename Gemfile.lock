@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/wyncode/humanity_gem.git
-  revision: e71a2f4112a1b67bb5522ae0e373c6c267cfeae9
+  revision: b89be4f41274ddc8d529749d9a9f746d5d91d9e7
   branch: basic_orm
   specs:
     humanity (0.2.0)
